@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ALC one</string>
+
+    <string name="main_activity_label">078</string>
+    <string name="main_activity_welcome">Anastasia Fitriani Sahe</string>
+    <string name="main_activity_title">1918078</string>
+    <string name="main_activity_description">
+        A community empowering the next generation of African technology leaders.</string>
+    <string name="button_about_alc">about</string>
+    <string name="button_my_profile">profile</string>
+
+    <string name="about_activity_label">About ALC</string>
+
+    <string name="profile_activity_label">My profile</string>
+    <string name="profile_name">Anastasia Fitriani Sahe</string>
+    <string name="profile_track">Teknik Informatika</string>
+
+    <string name="display_country">Country</string>
+    <string name="profile_country">Indonesian</string>
+
+    <string name="display_email">Email</string>
+    <string name="profile_email">fhitrisahe@gmail.com</string>
+
+    <string name="display_number">Mobile</string>
+    <string name="profile_number">081338389685</string>
+
+    <string name="display_slack_username">Nim</string>
+    <string name="profile_slack_username">1918078 </string>
+    <string name="display_contact">Lets talk</string>
+
+
+</resources>
